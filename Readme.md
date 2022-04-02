@@ -1,5 +1,5 @@
 # Lesson 4 - SimpleAI:
-This is the first-and-simple lesson of the Advanced Programming course with the two following objectives: 
+This is another lesson of the Advanced Programming course with the two following objectives: 
 * i) Understand about the hangman game source code structure
 * ii) Learn automated testing with Github Actions
 
