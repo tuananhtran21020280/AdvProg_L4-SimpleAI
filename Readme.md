@@ -1,5 +1,6 @@
 # Lesson 4 - SimpleAI:
 This is another lesson of the Advanced Programming course with the two following objectives: 
+
 * i) Understand about a simple AI source code structure
 * ii) Learn automated testing with Github Actions
 
