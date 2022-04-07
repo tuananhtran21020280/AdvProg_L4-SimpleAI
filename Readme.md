@@ -12,7 +12,6 @@ You are required to implement several functions of HangMan game. They could be d
 	* bool isCharInWord(const char ch, const string& word);
 	* vector<string> filterWordsByLen(int wordLen, const vector<string>& vocabulary);
 	* char findBestChar(const vector<string>& candidateWords, const set<char>& selectedChars);
-	* string getWordMask(char nextChar);
 	* bool isCorrectChar(char ch, const string& mask);
 	* bool isWholeWord(const string& mask);
 	*  vector<string> filterWordsByMask(const vector<string>& words, const string& mask, char ch);
