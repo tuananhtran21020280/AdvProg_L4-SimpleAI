@@ -7,7 +7,7 @@ This is another lesson of the Advanced Programming course with the two following
 You are required to implement several functions of HangMan game. They could be done via the instructions as follows:
 * Step 1: Fork this repo to your own account
 * Step 2: Clone the forked repo to your local via the command: git clone https://github.com/[YOUR_USERNAME]/AdvProg_L4-SimpleAI.git
-* Step 3: Modify the following functions to complete the requirement.:
+* Step 3: Modify the following functions of the 'simpleai.cpp' file to complete the requirement.:
 	* int generateRandomNumber(const int min, const int max);
 	* bool isCharInWord(const char ch, const string& word);
 	* vector<string> filterWordsByLen(int wordLen, const vector<string>& vocabulary);
